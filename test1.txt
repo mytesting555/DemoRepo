@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F4AC-4240
+
+ Directory of C:\Users\windows7\Desktop\My Git
+
+04/08/2020  01:11 PM    <DIR>          .
+04/08/2020  01:11 PM    <DIR>          ..
+04/08/2020  01:11 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  54,592,606,208 bytes free
