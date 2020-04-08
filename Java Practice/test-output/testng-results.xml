@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="88986" started-at="2020-04-04T14:20:44Z" finished-at="2020-04-04T14:22:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="88986" started-at="2020-04-04T14:20:44Z" finished-at="2020-04-04T14:22:13Z">
+      <class name="Java_4_Automation.Test_Website_Excel_Read">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Java_4_Automation.Test_Website_Excel_Read@93dd95]" name="beforeTest" is-config="true" duration-ms="17461" started-at="2020-04-04T19:50:44Z" finished-at="2020-04-04T19:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Java_4_Automation.Test_Website_Excel_Read@93dd95]" name="test1" duration-ms="34749" started-at="2020-04-04T19:51:05Z" data-provider="test1data" finished-at="2020-04-04T19:51:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ethan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hunt]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ethan123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hunt@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ethan#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[We have created a user registration form demo below that you can use to easily get started without any technical knowledge.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Java_4_Automation.Test_Website_Excel_Read@93dd95]" name="test1" duration-ms="15453" started-at="2020-04-04T19:51:40Z" data-provider="test1data" finished-at="2020-04-04T19:51:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Warner]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[david123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[david@d.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[david#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[We have created a user registration form demo below that you can use to easily get started without any technical knowledge.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Java_4_Automation.Test_Website_Excel_Read@93dd95]" name="test1" duration-ms="15497" started-at="2020-04-04T19:51:55Z" data-provider="test1data" finished-at="2020-04-04T19:52:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Riya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Martin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[riya123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jack@j.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[riya#123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[We have created a user registration form demo below that you can use to easily get started without any technical knowledge.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Java_4_Automation.Test_Website_Excel_Read@93dd95]" name="afterTest" is-config="true" duration-ms="2513" started-at="2020-04-04T19:52:11Z" finished-at="2020-04-04T19:52:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Java_4_Automation.Test_Website_Excel_Read -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
